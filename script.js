@@ -1,22 +1,9 @@
 
 alert("bingleton hornboggler III");
 alert ("qjkdlsqdfskjgqjkdfsgkjqdfsjkgsdjkfgjksdqfjkgsdfjkqgkjdsfkjgskjdfgkqjjkgfkjgjldfqgkfqqqqqqqqqq");
-    <button onclick="myFunction()" ">A mysterious clicky thing</button>
-                               
-                                    alert ("haha you clicked");  
-                                     
-    <script>                                    <button onclick="myFunction69()">Click for free robux!</button>
-function myFunction69()
-{ alert ("sorry this button is not working please go to the free robux 2.0 button");
-}
+  <script> 
+      function visitPage() 
+  { window.location='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwic4szHhtv6AhUwFjQIHaWJCmQQu6AFegQIDRAB&url=https%3A%2F%2Fwww.tiktok.com%2F%40vexbolts%2Fvideo%2F7152680771822570795&usg=AOvVaw2xEzfsEUuAOE3AMKw';
+  } 
 <script>
-    
- <button onclick="myFunction2000()">Free robux 2.0!!</button>
-
-<script> 
-     function myFunction2000()
- { alert ("01000111 01101111 00100000 01110100 01101111 00100000 01100001 01101100 01110100 01101011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01101001 01110100 01110011 00100000 01100011 01101111 01101111 01101100 https://www.binarytranslator.com");
- }
-<script>
-      
-                                          
+      button onclick="visitPage();">The ultimate button</button>
