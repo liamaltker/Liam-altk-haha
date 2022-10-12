@@ -9,5 +9,5 @@ alert ("qjkdlsqdfskjgqjkdfsgkjqdfsjkgsdjkfgjksdqfjkgsdfjkqgkjdsfkjgskjdfgkqjjkgf
       button onclick="visitPage();">The ultimate button</button>
     <script> 
         visitPage()
-<script
+<script>
 
