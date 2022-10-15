@@ -1,4 +1,4 @@
-
+var no = a
 alert("bingleton hornboggler III");
 alert ("qjkdlsqdfskjgqjkdfsgkjqdfsjkgsdjkfgjksdqfjkgsdfjkqgkjdsfkjgskjdfgkqjjkgfkjgjldfqgkfqqqqqqqqqq");
 function redirectFunction(){
@@ -9,4 +9,9 @@ function theFunction(){
 }
 function myFunction(){
   alert("go home bozo")
+}
+function crash() {
+  while(1) {
+    no += aa
+  }
 }
