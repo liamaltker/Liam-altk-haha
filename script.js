@@ -14,4 +14,6 @@ function crash() {
   while(1) {
     no += aa
   }
+function myFunction200(){
+  window.location.replace("https://discord.com/channels/@me/869010668542644254/1030870143296868453")
 }
