@@ -20,4 +20,8 @@ function crash() {
 function yessir(){
 window.location.replace("https://github.com/altkdev/ALTk/discussions/9")
 }
-             
+function crasher9000(){
+txt = "a";
+while(1){
+    txt = txt += "a";  
+}
