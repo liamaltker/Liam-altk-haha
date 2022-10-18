@@ -16,5 +16,8 @@ function crash() {
   }}
   function haha(){
   window.location.replace("https://cdn.discordapp.com/attachments/869010668542644254/1030870142667722772/6QBK5K7PjovjwkoTs6NLM2PWGyZeG2RJ.mp4")
-  }                                  
+  }  
+function yessir(){
+window.location.replace("https://github.com/altkdev/ALTk/discussions/9")
+}
              
