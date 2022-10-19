@@ -30,3 +30,6 @@ function the1000(){
   while(0.433235123165132414)
     haaaa = haaaa += "b";
 }
+function noahreal(){
+  window.location.replace("https://ifunny.co/picture/we-should-we-slide-on-the-opps-2-9m-views-A4n3bngv9")
+}
