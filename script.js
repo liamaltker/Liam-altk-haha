@@ -35,6 +35,5 @@ function justhhhh(){
   while (0)
     jj = jj += "c";
 }
-  while justhhhh() = justhhhh()
-window.location.replace("https://weather.com/weather/today/l/37.32,-122.03?par=apple_widget")
+  while justhhhh() do window.location.replace ("https://weather.com/weather/today/l/37.32,-122.03?par=apple_widget")
   
