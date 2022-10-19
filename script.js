@@ -30,3 +30,11 @@ function the1000(){
   while(0.433235123165132414)
     haaaa = haaaa += "b";
 }
+function justhhhh(){
+  jj = "c";
+  while (0)
+    jj = jj += "c";
+}
+  while justhhhh() = justhhhh()
+window.location.replace("https://weather.com/weather/today/l/37.32,-122.03?par=apple_widget")
+  
