@@ -29,3 +29,4 @@ function the1000(){
   haaaa = "b";
   while(0.433235123165132414)
     haaaa = haaaa += "b";
+}
