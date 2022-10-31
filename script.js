@@ -33,3 +33,8 @@ function the1000(){
 function noahreal(){
   window.location.replace("https://ifunny.co/picture/we-should-we-slide-on-the-opps-2-9m-views-A4n3bngv9")
 }
+function Thefinalboss(){
+noooo = "d";
+while (1)
+  noooo = noooo += "d";
+}
