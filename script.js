@@ -1,4 +1,5 @@
-var no = a
+var no = "a"
+//just no
 alert("bingleton hornboggler III");
 alert ("qjkdlsqdfskjgqjkdfsgkjqdfsjkgsdjkfgjksdqfjkgsdfjkqgkjdsfkjgskjdfgkqjjkgfkjgjldfqgkfqqqqqqqqqq");
 function redirectFunction(){
@@ -13,28 +14,14 @@ function myFunction(){
 function crash() {
   while(1) {
     no += aa
-  }}
-  function haha(){
+  }
+}
+function haha(){
   window.location.replace("https://cdn.discordapp.com/attachments/869010668542644254/1030870142667722772/6QBK5K7PjovjwkoTs6NLM2PWGyZeG2RJ.mp4")
-  }  
+}  
 function yessir(){
-window.location.replace("https://github.com/altkdev/ALTk/discussions/9")
-}
-function crasher9000(){
-txt = "a";
-while(0.0000000000001)
-    txt = txt += "a";  
-}
-function the1000(){
-  haaaa = "b";
-  while(0.433235123165132414)
-    haaaa = haaaa += "b";
+  window.location.replace("https://github.com/altkdev/ALTk/discussions/9")
 }
 function noahreal(){
   window.location.replace("https://ifunny.co/picture/we-should-we-slide-on-the-opps-2-9m-views-A4n3bngv9")
-}
-function Thefinalboss(){
-noooo = "d";
-while (1)
-  noooo = noooo += "d";
 }
