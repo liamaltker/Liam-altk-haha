@@ -25,3 +25,6 @@ function yessir(){
 function noahreal(){
   window.location.replace("https://ifunny.co/picture/we-should-we-slide-on-the-opps-2-9m-views-A4n3bngv9")
 }
+if crash() = crash() do{
+  window.location.replace("https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjny5GfrI37AhWxADQIHRfhA5IQwqsBegQIDBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU")
+}  
