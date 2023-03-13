@@ -28,3 +28,6 @@ function noahreal(){
 if crash() == crash(){
   window.location.replace("https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjny5GfrI37AhWxADQIHRfhA5IQwqsBegQIDBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU")
 }
+function liamissocool(){
+  window.location.replace("https://www.youtube.com/watch?v=RmQG3iXsLF4")
+}
