@@ -31,3 +31,13 @@ if crash() == crash(){
 function liamissocool(){
   window.location.replace("https://www.youtube.com/watch?v=RmQG3iXsLF4")
 }
+function imsocool() {
+  while (0.5) {
+    no += aa
+  }
+  button imsocool() {
+    buttonShort.style.width = '400px';
+    buttonShort.style.height = '400px';
+    buttonShort.style.background = 'white';
+    buttonShort.style.color = 'red';
+    buttonShort.style.fontSize = '25px' }
