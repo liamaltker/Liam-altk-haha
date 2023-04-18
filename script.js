@@ -32,7 +32,7 @@ function liamissocool(){
   window.location.replace("https://www.youtube.com/watch?v=RmQG3iXsLF4")
 }
 function imsocool() {
-  while (0.5) {
+  while (3) {
     no += aa
   }
   button imsocool() {
@@ -40,4 +40,5 @@ function imsocool() {
     buttonShort.style.height = '400px';
     buttonShort.style.background = 'white';
     buttonShort.style.color = 'red';
-    buttonShort.style.fontSize = '25px' }
+    buttonShort.style.fontSize = '25px'
+  }
